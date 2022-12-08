@@ -1,0 +1,29 @@
+2022-09-18 10:21:14,585:INFO:|slicing operation has initiated|
+2022-09-18 10:21:14,621:INFO:entered 'a','b' & 'c' value--1 : 300: 3
+2022-09-18 10:21:14,621:INFO:h   r tnrrmglsnimeNGyosi dtfco
+2022-09-18 10:21:14,621:INFO:|slicing operation has done successfully|
+2022-09-18 10:21:14,621:INFO:|reversing operation initiated|
+2022-09-18 10:21:14,622:INFO:noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+2022-09-18 10:21:14,622:INFO:|reversing operation has done successfully|
+2022-09-18 10:21:14,622:INFO:|splitting & uppercase operation has initiated|
+2022-09-18 10:21:14,622:INFO:['this', 'is', 'My', 'First', 'Python', 'programming', 'class', 'and', 'i', 'am', 'learNING', 'python', 'string', 'and', 'its', 'function']
+2022-09-18 10:21:14,622:INFO:THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-09-18 10:21:14,622:INFO:|splitting & uppercase operation has done successfully|
+2022-09-18 10:21:14,622:INFO:|lowercase operation has initiated|
+2022-09-18 10:21:14,622:INFO:this is my first python programming class and i am learning python string and its function
+2022-09-18 10:21:14,622:INFO:|lowercase operation has done successfully|
+2022-09-18 10:21:14,622:INFO:|capitalize operation has initiated|
+2022-09-18 10:21:14,622:INFO:This is my first python programming class and i am learning python string and its function
+2022-09-18 10:21:14,622:INFO:|capitalize operation has done successfully|
+2022-09-18 10:21:14,622:INFO:|expand tab operation has initiated|
+2022-09-18 10:21:14,622:INFO:this is My Fi   rst Python progra       mming cl        ass and i am lear       NING python st  ring and its f  unction
+2022-09-18 10:21:14,622:INFO:|expand tab operation has done successfully|
+2022-09-18 10:21:14,622:INFO:|strip, lstrip & rstrip operation has initiated|
+2022-09-18 10:21:14,622:INFO:function:function  :  function
+2022-09-18 10:21:14,622:INFO:|strip, lstrip & rstrip operation has done successfully|
+2022-09-18 10:21:14,622:INFO:|replace operation has initiated|
+2022-09-18 10:21:14,622:INFO:  krishna  
+2022-09-18 10:21:14,623:INFO:|replace operation has done successfully|
+2022-09-18 10:21:14,623:INFO:|center operation has initiated|
+2022-09-18 10:21:14,623:INFO:@@@@@@@@@  function  @@@@@@@@@
+2022-09-18 10:21:14,623:INFO:|center operation has done successfully|

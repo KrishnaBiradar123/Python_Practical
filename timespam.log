@@ -1,0 +1,54 @@
+2022-09-10 14:47:02,462 myself krishna biradar i am graduated from college of agri engineering INFO
+2022-09-10 14:48:11,703 myself krishna biradar i am graduated from college of agri engineering INFO
+2022-09-10 15:15:58,355 user entered data is 2 and 6  INFO
+2022-09-10 15:21:00,411 user entered data is 2,4 and 7  INFO
+2022-09-10 15:52:40,947 user entered data is 2,4 and 7  INFO
+2022-09-10 15:53:09,455 user entered data is 2,4 and 7  INFO
+2022-09-10 15:53:20,926 user entered data is 2,4 and 7  INFO
+2022-09-10 15:53:56,192 user entered data is 2,4 and 7  INFO
+2022-09-10 15:54:14,268 user entered data is 2,4 and 7  INFO
+2022-09-10 15:54:40,439 user entered data is 2,4 and 7  INFO
+2022-09-10 15:55:34,401 user entered data is 2,4 and 7  INFO
+2022-09-10 15:55:57,577 user entered data is 2,4 and 7  INFO
+2022-09-10 15:58:40,406 user entered data is 2,4 and 7  INFO
+2022-09-10 15:59:46,968 user entered data is 2,4 and 7  INFO
+2022-09-10 16:00:02,891 user entered data is 2,4 and 7  INFO
+2022-09-10 16:06:42,491 user entered data is 2,4 and 7  INFO
+2022-09-10 16:09:49,342 user entered data is 2,4 and 7  INFO
+2022-09-10 16:10:36,138 user entered data is 2,4 and 7  INFO
+2022-09-10 16:10:50,903 user entered data is 2,4 and 7  INFO
+2022-09-10 16:21:34,999 user entered data is 2,4 and 7  INFO
+2022-09-10 16:21:35,011 user has entered this data 1 and 0 INFO
+2022-09-10 16:24:05,279 user entered data is 2,4 and 7  INFO
+2022-09-10 16:24:05,279 user has entered this data 1 and 0 INFO
+2022-09-10 16:25:10,404 user entered data is 2,4 and 7  INFO
+2022-09-10 16:25:10,404 user has entered this data 1 and 0 INFO
+2022-09-10 16:28:54,961 user entered data is 2,4 and 7  INFO
+2022-09-10 16:28:54,962 user has entered this data 14 and 10 INFO
+2022-09-10 16:28:54,962 we are into the function INFO
+2022-09-10 16:28:54,962 we have completed the operation INFO
+2022-09-10 16:28:54,962 result of the code is 1.4 INFO
+2022-09-10 16:29:15,320 user entered data is 2,4 and 7  INFO
+2022-09-10 16:29:15,320 user has entered this data 14 and 0 INFO
+2022-09-10 16:29:15,320 we are into the function INFO
+2022-09-10 16:29:15,320 division by zero ERROR
+Traceback (most recent call last):
+  File "C:\Users\Student\PycharmProjects\pythonProject1\main.py", line 12, in face
+    k=a/b
+ZeroDivisionError: division by zero
+2022-09-14 10:18:47,751 user entered data is 2,4 and 7  INFO
+2022-09-14 10:18:47,802 user has entered this data 14 and 0 INFO
+2022-09-14 10:18:47,802 we are into the function INFO
+2022-09-14 10:18:47,802 division by zero ERROR
+Traceback (most recent call last):
+  File "C:\Users\Student\PycharmProjects\pythonProject1\main.py", line 12, in face
+    k=a/b
+ZeroDivisionError: division by zero
+2022-09-14 11:12:54,796 user entered data is 2,4 and 7  INFO
+2022-09-14 11:12:54,815 user has entered this data 14 and 0 INFO
+2022-09-14 11:12:54,815 we are into the function INFO
+2022-09-14 11:12:54,815 division by zero ERROR
+Traceback (most recent call last):
+  File "C:\Users\Student\PycharmProjects\pythonProject1\main.py", line 12, in face
+    k=a/b
+ZeroDivisionError: division by zero
